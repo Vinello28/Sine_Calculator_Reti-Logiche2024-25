@@ -1,0 +1,1 @@
+--incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "TB_twos_complement_behav" "xil_defaultlib.TB_twos_complement" -log "elaborate.log" 

@@ -1,0 +1,1 @@
+--incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "TB_angle_normalizer_behav" "xil_defaultlib.TB_angle_normalizer" -log "elaborate.log" 

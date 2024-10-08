@@ -1,0 +1,25 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Utente/Desktop/FUNZIONE SENO IN VIRGOLA FISSA/FUNZIONE SENO IN VIRGOLA FISSA.sim/sim_1/synth/timing/xsim/TB_sine_calculator_time_synth.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sine_calculator
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Utente/Desktop/FUNZIONE SENO IN VIRGOLA FISSA/FUNZIONE SENO IN VIRGOLA FISSA.srcs/sim_1/new/TB_ANGLE_NORMALIZATION.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'TB_angle_normalizer'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Utente/Desktop/FUNZIONE SENO IN VIRGOLA FISSA/FUNZIONE SENO IN VIRGOLA FISSA.srcs/sim_1/new/TB_BYPASS.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'TB_bypass_logic'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Utente/Desktop/FUNZIONE SENO IN VIRGOLA FISSA/FUNZIONE SENO IN VIRGOLA FISSA.srcs/sim_1/new/TB_INTERPOLATOR.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'TB_interpolator'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Utente/Desktop/FUNZIONE SENO IN VIRGOLA FISSA/FUNZIONE SENO IN VIRGOLA FISSA.srcs/sim_1/new/TB_LUT.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'TB_lookup_table'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Utente/Desktop/FUNZIONE SENO IN VIRGOLA FISSA/FUNZIONE SENO IN VIRGOLA FISSA.srcs/sim_1/new/TB_MULTIPLIER.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'TB_multiplier'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Utente/Desktop/FUNZIONE SENO IN VIRGOLA FISSA/FUNZIONE SENO IN VIRGOLA FISSA.srcs/sim_1/new/TB_QUADRANT_ADJUSTER.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'TB_quadrant_adjuster'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Utente/Desktop/FUNZIONE SENO IN VIRGOLA FISSA/FUNZIONE SENO IN VIRGOLA FISSA.srcs/sim_1/new/TB_SIN_CALCULATOR.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'TB_sine_calculator'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Utente/Desktop/FUNZIONE SENO IN VIRGOLA FISSA/FUNZIONE SENO IN VIRGOLA FISSA.srcs/sim_1/new/TB_TWOS_COMPLEMENT.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'TB_twos_complement'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Utente/Desktop/FUNZIONE SENO IN VIRGOLA FISSA/FUNZIONE SENO IN VIRGOLA FISSA.srcs/sim_1/new/TB_ADDER.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'TB_ripple_carry_adder'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Utente/Desktop/FUNZIONE SENO IN VIRGOLA FISSA/FUNZIONE SENO IN VIRGOLA FISSA.srcs/sim_1/new/TB_COMPARATOR.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'TB_less_than_comparator'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Utente/Desktop/FUNZIONE SENO IN VIRGOLA FISSA/FUNZIONE SENO IN VIRGOLA FISSA.srcs/sim_1/new/TB_SUBTRACTOR.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'TB_subtractor'

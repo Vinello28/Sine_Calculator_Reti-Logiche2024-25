@@ -1,0 +1,16 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../../FUNZIONE SENO IN VIRGOLA FISSA.srcs/sim_1/new/TB_ANGLE_NORMALIZATION.vhd" \
+"../../../../../FUNZIONE SENO IN VIRGOLA FISSA.srcs/sim_1/new/TB_BYPASS.vhd" \
+"../../../../../FUNZIONE SENO IN VIRGOLA FISSA.srcs/sim_1/new/TB_INTERPOLATOR.vhd" \
+"../../../../../FUNZIONE SENO IN VIRGOLA FISSA.srcs/sim_1/new/TB_LUT.vhd" \
+"../../../../../FUNZIONE SENO IN VIRGOLA FISSA.srcs/sim_1/new/TB_MULTIPLIER.vhd" \
+"../../../../../FUNZIONE SENO IN VIRGOLA FISSA.srcs/sim_1/new/TB_QUADRANT_ADJUSTER.vhd" \
+"../../../../../FUNZIONE SENO IN VIRGOLA FISSA.srcs/sim_1/new/TB_SIN_CALCULATOR.vhd" \
+"../../../../../FUNZIONE SENO IN VIRGOLA FISSA.srcs/sim_1/new/TB_TWOS_COMPLEMENT.vhd" \
+"../../../../../FUNZIONE SENO IN VIRGOLA FISSA.srcs/sim_1/new/TB_ADDER.vhd" \
+"../../../../../FUNZIONE SENO IN VIRGOLA FISSA.srcs/sim_1/new/TB_COMPARATOR.vhd" \
+"../../../../../FUNZIONE SENO IN VIRGOLA FISSA.srcs/sim_1/new/TB_SUBTRACTOR.vhd" \
+
+# Do not sort compile order
+nosort

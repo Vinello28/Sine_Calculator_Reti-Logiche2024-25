@@ -1,0 +1,24 @@
+0.7
+2020.2
+May 22 2024
+19:03:11
+C:/Users/Utente/Desktop/FUNZIONE SENO IN VIRGOLA FISSA/FUNZIONE SENO IN VIRGOLA FISSA.sim/sim_1/impl/timing/xsim/TB_sine_calculator_time_impl.v,1727879092,verilog,,,,glbl;sine_calculator,,,,,,,,
+C:/Users/Utente/Desktop/FUNZIONE SENO IN VIRGOLA FISSA/FUNZIONE SENO IN VIRGOLA FISSA.srcs/sim_1/new/TB_ADDER.vhd,1727771513,vhdl,,,,tb_ripple_carry_adder,,,,,,,,
+C:/Users/Utente/Desktop/FUNZIONE SENO IN VIRGOLA FISSA/FUNZIONE SENO IN VIRGOLA FISSA.srcs/sim_1/new/TB_ANGLE_NORMALIZATION.vhd,1727762044,vhdl,,,,tb_angle_normalizer,,,,,,,,
+C:/Users/Utente/Desktop/FUNZIONE SENO IN VIRGOLA FISSA/FUNZIONE SENO IN VIRGOLA FISSA.srcs/sim_1/new/TB_BYPASS.vhd,1727769163,vhdl,,,,tb_bypass_logic,,,,,,,,
+C:/Users/Utente/Desktop/FUNZIONE SENO IN VIRGOLA FISSA/FUNZIONE SENO IN VIRGOLA FISSA.srcs/sim_1/new/TB_COMPARATOR.vhd,1727775543,vhdl,,,,tb_less_than_comparator,,,,,,,,
+C:/Users/Utente/Desktop/FUNZIONE SENO IN VIRGOLA FISSA/FUNZIONE SENO IN VIRGOLA FISSA.srcs/sim_1/new/TB_INTERPOLATOR.vhd,1727762934,vhdl,,,,tb_interpolator,,,,,,,,
+C:/Users/Utente/Desktop/FUNZIONE SENO IN VIRGOLA FISSA/FUNZIONE SENO IN VIRGOLA FISSA.srcs/sim_1/new/TB_LUT.vhd,1727766361,vhdl,,,,tb_lookup_table,,,,,,,,
+C:/Users/Utente/Desktop/FUNZIONE SENO IN VIRGOLA FISSA/FUNZIONE SENO IN VIRGOLA FISSA.srcs/sim_1/new/TB_MULTIPLIER.vhd,1727770334,vhdl,,,,tb_multiplier,,,,,,,,
+C:/Users/Utente/Desktop/FUNZIONE SENO IN VIRGOLA FISSA/FUNZIONE SENO IN VIRGOLA FISSA.srcs/sim_1/new/TB_QUADRANT_ADJUSTER.vhd,1727768733,vhdl,,,,tb_quadrant_adjuster,,,,,,,,
+C:/Users/Utente/Desktop/FUNZIONE SENO IN VIRGOLA FISSA/FUNZIONE SENO IN VIRGOLA FISSA.srcs/sim_1/new/TB_SIN_CALCULATOR.vhd,1727779494,vhdl,,,,tb_sine_calculator,,,,,,,,
+C:/Users/Utente/Desktop/FUNZIONE SENO IN VIRGOLA FISSA/FUNZIONE SENO IN VIRGOLA FISSA.srcs/sim_1/new/TB_SUBTRACTOR.vhd,1727772099,vhdl,,,,tb_subtractor,,,,,,,,
+C:/Users/Utente/Desktop/FUNZIONE SENO IN VIRGOLA FISSA/FUNZIONE SENO IN VIRGOLA FISSA.srcs/sim_1/new/TB_TWOS_COMPLEMENT.vhd,1727770868,vhdl,,,,tb_twos_complement,,,,,,,,
+C:/Users/Utente/Desktop/FUNZIONE SENO IN VIRGOLA FISSA/FUNZIONE SENO IN VIRGOLA FISSA.srcs/sources_1/new/ANGLE_ADJUSTER.vhd,1727417738,vhdl,,,,angle_adjuster,,,,,,,,
+C:/Users/Utente/Desktop/FUNZIONE SENO IN VIRGOLA FISSA/FUNZIONE SENO IN VIRGOLA FISSA.srcs/sources_1/new/ANGLE_NORMALIZER.vhd,1727434937,vhdl,,,,angle_normalizer,,,,,,,,
+C:/Users/Utente/Desktop/FUNZIONE SENO IN VIRGOLA FISSA/FUNZIONE SENO IN VIRGOLA FISSA.srcs/sources_1/new/COMPARATOR_LESS_THAN.vhd,1727412559,vhdl,,,,less_than_comparator,,,,,,,,
+C:/Users/Utente/Desktop/FUNZIONE SENO IN VIRGOLA FISSA/FUNZIONE SENO IN VIRGOLA FISSA.srcs/sources_1/new/FA.vhd,1727433602,vhdl,,,,full_adder,,,,,,,,
+C:/Users/Utente/Desktop/FUNZIONE SENO IN VIRGOLA FISSA/FUNZIONE SENO IN VIRGOLA FISSA.srcs/sources_1/new/MUX2.vhd,1727413870,vhdl,,,,mux2,,,,,,,,
+C:/Users/Utente/Desktop/FUNZIONE SENO IN VIRGOLA FISSA/FUNZIONE SENO IN VIRGOLA FISSA.srcs/sources_1/new/MUX4.vhd,1727412634,vhdl,,,,mux4,,,,,,,,
+C:/Users/Utente/Desktop/FUNZIONE SENO IN VIRGOLA FISSA/FUNZIONE SENO IN VIRGOLA FISSA.srcs/sources_1/new/QUADRANT_DETECTOR.vhd,1727412556,vhdl,,,,quadrant_detector,,,,,,,,
+C:/Users/Utente/Desktop/FUNZIONE SENO IN VIRGOLA FISSA/FUNZIONE SENO IN VIRGOLA FISSA.srcs/sources_1/new/SUBTRACTOR.vhd,1727433564,vhdl,,,,subtractor,,,,,,,,

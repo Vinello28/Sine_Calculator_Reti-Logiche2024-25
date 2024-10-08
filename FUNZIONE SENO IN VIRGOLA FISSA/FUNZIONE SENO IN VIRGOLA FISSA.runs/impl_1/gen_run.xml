@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7a15tcsg324-1" LaunchTime="1727778340">
+  <File Type="ROUTE-PWR" Name="sine_calculator_power_routed.rpt"/>
+  <File Type="PA-TCL" Name="sine_calculator.tcl"/>
+  <File Type="ROUTE-PWR-SUM" Name="sine_calculator_power_summary_routed.pb"/>
+  <File Type="REPORTS-TCL" Name="sine_calculator_reports.tcl"/>
+  <File Type="BITSTR-MSK" Name="sine_calculator.msk"/>
+  <File Type="ROUTE-CLK" Name="sine_calculator_clock_utilization_routed.rpt"/>
+  <File Type="RDI-RDI" Name="sine_calculator.vdi"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="sine_calculator_bus_skew_postroute_physopted.pb"/>
+  <File Type="BG-BIT" Name="sine_calculator.bit"/>
+  <File Type="BG-DRC" Name="sine_calculator.drc"/>
+  <File Type="BG-BGN" Name="sine_calculator.bgn"/>
+  <File Type="BG-BIN" Name="sine_calculator.bin"/>
+  <File Type="BITSTR-RBT" Name="sine_calculator.rbt"/>
+  <File Type="BITSTR-NKY" Name="sine_calculator.nky"/>
+  <File Type="BITSTR-BMM" Name="sine_calculator_bd.bmm"/>
+  <File Type="BITSTR-MMI" Name="sine_calculator.mmi"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="sine_calculator_methodology_drc_routed.rpt"/>
+  <File Type="BITSTR-SYSDEF" Name="sine_calculator.sysdef"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="sine_calculator_methodology_drc_routed.pb"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="sine_calculator.ltx"/>
+  <File Type="BOOT-PDI-FILE" Name="sine_calculator_boot.pdi"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <File Type="NPI_FILE" Name="sine_calculator.npi"/>
+  <File Type="OPT-DRC" Name="sine_calculator_drc_opted.rpt"/>
+  <File Type="RBD_FILE" Name="sine_calculator.rbd"/>
+  <File Type="OPT-HWDEF" Name="sine_calculator.hwdef"/>
+  <File Type="PLACE-IO" Name="sine_calculator_io_placed.rpt"/>
+  <File Type="PLACE-UTIL" Name="sine_calculator_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="sine_calculator_utilization_placed.pb"/>
+  <File Type="PLACE-CTRL" Name="sine_calculator_control_sets_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="sine_calculator_incremental_reuse_pre_placed.rpt"/>
+  <File Type="ROUTE-DRC" Name="sine_calculator_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-PB" Name="sine_calculator_drc_routed.pb"/>
+  <File Type="ROUTE-PWR-RPX" Name="sine_calculator_power_routed.rpx"/>
+  <File Type="ROUTE-STATUS" Name="sine_calculator_route_status.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="sine_calculator_route_status.pb"/>
+  <File Type="ROUTE-DCP" Name="sine_calculator_routed.dcp"/>
+  <File Type="ROUTE-ERROR-DCP" Name="sine_calculator_routed_error.dcp"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="sine_calculator_routed_bb.dcp"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="sine_calculator_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-PB" Name="sine_calculator_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMING-RPX" Name="sine_calculator_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-SIMILARITY" Name="sine_calculator_incremental_reuse_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW" Name="sine_calculator_bus_skew_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="sine_calculator_bus_skew_routed.pb"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="sine_calculator_bus_skew_routed.rpx"/>
+  <File Type="OPT-DCP" Name="sine_calculator_opt.dcp"/>
+  <File Type="PLACE-DCP" Name="sine_calculator_placed.dcp"/>
+  <File Type="PWROPT-DCP" Name="sine_calculator_pwropt.dcp"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="sine_calculator_postplace_pwropt.dcp"/>
+  <File Type="PHYSOPT-DCP" Name="sine_calculator_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="sine_calculator_postroute_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="sine_calculator_postroute_physopt_bb.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="sine_calculator_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="sine_calculator_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="sine_calculator_timing_summary_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="sine_calculator_bus_skew_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="sine_calculator_bus_skew_postroute_physopted.rpx"/>
+  <File Type="ROUTE-DRC-RPX" Name="sine_calculator_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="sine_calculator_methodology_drc_routed.rpx"/>
+  <File Type="PDI-FILE" Name="sine_calculator.pdi"/>
+  <File Type="PL-PDI-FILE" Name="sine_calculator_pld.pdi"/>
+  <File Type="RCFI_FILE" Name="sine_calculator.rcfi"/>
+  <File Type="CFI_FILE" Name="sine_calculator.cfi"/>
+  <File Type="RNPI_FILE" Name="sine_calculator.rnpi"/>
+  <File Type="ROUTE-RQS" Name="sine_calculator_routed.rqs"/>
+  <File Type="POSTROUTE-PHYSOPT-RQS" Name="sine_calculator_postroute_physopted.rqs"/>
+  <File Type="ROUTE-RQS-RPT" Name="route_report_qor_suggestions_0.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-RQS-RPT" Name="postroute_physopt_report_qor_suggestions_0.rpt"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1" RelGenDir="$PGENDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/new/ADDER.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/ANGLE_ADJUSTER.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/ANGLE_NORMALIZER.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/BYPASS_LOGIC.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/CA2.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/COMPARATOR_LESS_THAN.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/FA.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/INTERPOLATOR.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/LUT.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/MULTIPLIER.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/MUX2.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/MUX3.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/MUX4.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/QUADRANT_ADJUSTER.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/QUADRANT_DETECTOR.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/SHIFTER_RIGHT.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/SUBTRACTOR.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/SIN_CALCULATOR.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="sine_calculator"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1" RelGenDir="$PGENDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PSRCDIR/constrs_1/new/timing.xdc">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1" RelGenDir="$PGENDIR/utils_1">
+    <Filter Type="Utils"/>
+    <File Path="$PSRCDIR/utils_1/imports/synth_1/sin_calculator.dcp">
+      <FileInfo>
+        <Attr Name="UserDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedInSteps" Val="synth_1"/>
+        <Attr Name="AutoDcp" Val="1"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2024"/>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+    <Step Id="write_device_image"/>
+  </Strategy>
+</GenRun>
