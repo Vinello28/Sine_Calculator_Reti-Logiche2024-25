@@ -11,7 +11,7 @@
  implementazione non si hanno glitch o errori in output.
 
 ## Problematiche
- Codice VHDL non ottimizzato, i registri andrebbero entrambi sincronizzati sul rising edge e si poteva realizzare
+ Codice VHDL non ottimizzato, i registri andrebbero entrambi sincronizzati sul rising edge; inoltre, si poteva realizzare un
  un sistema automatico di testing.
 
 ## Autori
